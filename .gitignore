@@ -1,0 +1,5 @@
+.env
+.adk/
+__pycache__/
+*.py[cod]
+.venv/
